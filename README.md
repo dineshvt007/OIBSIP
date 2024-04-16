@@ -1,2 +1,1 @@
-# OIBSIP
-JAVA INTERNSHIP 
+# OIBSIP-Java_Development
